@@ -197,10 +197,15 @@ output "balancer_ip" {
 ```
 
 `При необходимости прикрепитe сюда скриншоты
+
 ![Балансировщик](img/balancer.jpg)`
+
 ![Целевая группа](img/Celevaya gruppa.jpg)`
+
 ![Nginx](img/Nginx.jpg)`
+
 ![Активные ВМ](img/Nginx.jpg)`
+
 
 
 ---
