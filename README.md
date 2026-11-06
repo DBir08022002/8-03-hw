@@ -200,7 +200,7 @@ output "balancer_ip" {
 
 ![Балансировщик](img/balancer.jpg)`
 
-![Целевая группа](img/Celevaya gruppa.jpg)`
+![Целевая группа](img/Celevaya_gruppa.jpg)`
 
 ![Nginx](img/Nginx.jpg)`
 
