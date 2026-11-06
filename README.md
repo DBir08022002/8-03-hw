@@ -204,7 +204,7 @@ output "balancer_ip" {
 
 ![Nginx](img/Nginx.jpg)`
 
-![Активные ВМ](img/Nginx.jpg)`
+![Активные ВМ](img/Running.jpg)`
 
 
 
